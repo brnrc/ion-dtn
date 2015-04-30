@@ -1,0 +1,7 @@
+dtnperf/al_bp/src/bp_implementations/libal_bp_vION_la-al_bp_dtn_conversions.lo: \
+ dtnperf/al_bp/src/bp_implementations/al_bp_dtn_conversions.c \
+ /usr/include/stdc-predef.h ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
